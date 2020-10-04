@@ -1,12 +1,12 @@
 ## NOTES
 
 # SatCom
-  [MODULE 1 (1)](SatCom_pdf.pdf)         |         [MODULE 1 (2)](SatCom_Module_1.pdf) 
+  [MODULE 1 (1)](https://drive.google.com/file/d/1HARWFF1TAhri9RJNY6JfV_4UyKj3Qvd_/view?usp=sharing) | [MODULE 1 (2)](https://drive.google.com/file/d/1IVHROLmpcO-PiHLnDGHdj_Axy51AKydx/view?usp=sharing) 
 <br>
 # DIP
-[MODULE 1 (1)](DIP_Mod1.pdf)   |  [MODULE 1 (2)](DIP1.pdf)
+[MODULE 1 (1)](https://drive.google.com/file/d/1IgaI4E76nRGSNgyJ3KDvXfPzakHp9pAd/view?usp=sharing)   |  [MODULE 1 (2)](https://drive.google.com/file/d/1zr9uVhKeX7Ylg9ER1jcUywo3Vh58vkKL/view?usp=sharing) |[MODULE 1 (3)](https://drive.google.com/file/d/13g_NpI-BNQZNDlBFipkDMkZcNHclS39Y/view?usp=sharing)
 
-[MODULE 2 (part 1)](DIP-MOD2.pdf)   |   [MODULE 2 (part 2)](DIP_MOD2_2.PDF) | [MODULE 2 (2)](MODULE2_DIP.pdf)
+[MODULE 2 (part 1)](https://drive.google.com/file/d/1697JEaIsAghAPTL6kyhDi-0Qg3cO1JF_/view?usp=sharing)   |   [MODULE 2 (part 2)](https://drive.google.com/file/d/1T7Ay8VdVqe56Rq0W9hdirg29V9aF_z4F/view?usp=sharing) | [MODULE 2 (2)](https://drive.google.com/file/d/1T7Ay8VdVqe56Rq0W9hdirg29V9aF_z4F/view?usp=sharing)
 <br>
  # PE
  
