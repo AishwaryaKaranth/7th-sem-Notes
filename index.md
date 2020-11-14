@@ -8,8 +8,8 @@
 
 [MODULE 2 (part 1)](https://drive.google.com/file/d/1697JEaIsAghAPTL6kyhDi-0Qg3cO1JF_/view?usp=sharing)   |   [MODULE 2 (part 2)](https://drive.google.com/file/d/1T7Ay8VdVqe56Rq0W9hdirg29V9aF_z4F/view?usp=sharing) | [MODULE 2 (2)](https://drive.google.com/file/d/1T7Ay8VdVqe56Rq0W9hdirg29V9aF_z4F/view?usp=sharing)
 
-[MODULE 3]()|
-[DIP QP]()
+[MODULE 3](https://drive.google.com/file/d/1UdVVNtRy28tTA2jaGqdS6VO7SqW6nkEI/view?usp=sharing)|
+[DIP QP](https://drive.google.com/file/d/1Z8VKEAt1rhiy6lOB9bpZ4s5PgmtAzG9H/view?usp=sharing)
 
 
 # PE
