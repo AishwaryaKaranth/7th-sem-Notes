@@ -25,5 +25,5 @@
 [MODULE 1 (1)](https://drive.google.com/file/d/13_-VxFmUYDAy7RUHHcOTCHHyDoeL75kk/view?usp=sharing)
 [MODULE 2](https://drive.google.com/file/d/1ZyABKtuJACZqq_NuHUb-iRN0bHns1POu/view?usp=sharing) | [MODULE 2(i)](https://drive.google.com/file/d/1yQi84oH7WQiA4T8_x4xX-mTdJ8NU03ap/view?usp=sharing)
 
-# CRYTOGRAPHY
+# CRYPTOGRAPHY
  
